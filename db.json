@@ -1,0 +1,17 @@
+{
+  "event": [
+    {
+      "id": 1,
+      "title": "wedding",
+      "Venue": "Eko Hotels",
+      "Date": "21/09/2019 TM 04:00 pm"
+    }
+  ],
+  "attendees": [
+    {
+      "id": 1,
+      "email": "longred@gmail.com",
+      "phone": "0908767464"
+    }
+  ]
+}
